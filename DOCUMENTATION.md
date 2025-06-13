@@ -97,12 +97,12 @@ Aplikasi ini menggunakan **localStorage** untuk menyimpan informasi tentang klub
 
 Berikut adalah struktur file proyek yang digunakan untuk aplikasi ini:
 
-src/
-├── components/ # Komponen UI yang dapat digunakan ulang
-├── pages/ # Halaman untuk setiap route
-├── data/ # Data klub
-├── hooks/ # Custom hooks seperti useLocalStorage
-└── public/images/ # Gambar-gambar klub
+- `src/`
+  - `components/` # Komponen UI
+  - `pages/` # Halaman untuk setiap route
+  - `data/` # Data klub
+  - `hooks/` # Custom hooks seperti useLocalStorage
+  - `public/images/` # Gambar-gambar klub
 
 ---
 
