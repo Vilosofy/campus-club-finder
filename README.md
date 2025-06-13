@@ -22,7 +22,7 @@ A web application that helps university students discover, learn about, and join
 
 1. Clone the repository:
 
-- git clone https://github.com/your-username/campus-club-finder.git
+- git clone https://github.com/Vilosofy/campus-club-finder.git
 - cd campus-club-finder
 
 2. Install dependencies:
