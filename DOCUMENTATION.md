@@ -1,11 +1,5 @@
 # Documentation: Campus Club Finder
 
-## Introduction
-
-**Campus Club Finder** adalah aplikasi web yang membantu mahasiswa untuk menemukan, mempelajari lebih lanjut, dan bergabung dengan klub mahasiswa di kampus mereka. Aplikasi ini dibangun menggunakan **Vite**, **React**, **React Router**, dan **Tailwind CSS** untuk memberikan antarmuka yang responsif dan fungsional. Semua data tentang klub disimpan di browser menggunakan **localStorage**, tanpa backend.
-
----
-
 ## Project Walkthrough
 
 ### 1. **Initial State (Halaman Utama)**
